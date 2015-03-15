@@ -1,4 +1,3 @@
 # memento-a
-Subproject of memento
 
-## Commit z parent
+## To push changes into parent
